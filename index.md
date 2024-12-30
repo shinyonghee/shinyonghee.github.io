@@ -4,6 +4,6 @@ I am an undergraduate research intern at [Cognitive Learning for Vision and Robo
 I am currently a fourth-year undergraduate student in Electrical Engineering at POSTECH.
 
 Contact: shinyonghee[at]postech.ac.kr
-
+**[CV](/assets/YongheeShin_CV.pdf)**
 ## Research
 My research interests lie in enabling robots to solve complex real-world challenges
