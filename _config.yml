@@ -2,3 +2,5 @@ remote_theme: pages-themes/minimal
 title: Yonghee Shin
 description: BS Student @ POSTECH EE
 logo: /assets/img/profile.jpg
+titles_from_headings:
+  enabled: false # About Me 제목 비활성화
