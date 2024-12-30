@@ -7,6 +7,3 @@ My research focuses on developing robotic systems capable of tackling complex re
 **[CV](/assets/YongheeShin_CV.pdf)**
 
 Contact: shinyonghee[at]postech.ac.kr
-
-## Research
-My research interests lie in enabling robots to solve complex real-world challenges
