@@ -5,4 +5,5 @@ I am an undergraduate research intern at [Cognitive Learning for Vision and Robo
 My research focuses on enabling robots to solve complex real-world problems using machine learning.
 
 **[CV](/assets/YongheeShin_CV.pdf)**
+
 Contact: shinyonghee[at]postech.ac.kr
